@@ -1,4 +1,4 @@
-# UP-DOWN-COUNTER-WITH-7-SEGMENT-DISPLAY
+# DOWN-COUNTER-WITH-7-SEGMENT-DISPLAY
 
 This project was created February 18, 2025. It is now published for portfolio.
 
